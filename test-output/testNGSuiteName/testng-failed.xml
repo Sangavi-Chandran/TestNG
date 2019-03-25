@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [testNGSuiteName]">
+  <test name="testNGParameterName">
+    <classes>
+      <class name="testCase.HybridSkipSignIn"/>
+      <class name="testCase.HybridRegister"/>
+      <class name="testCase.HybridWindows"/>
+    </classes>
+  </test> <!-- testNGParameterName -->
+</suite> <!-- Failed suite [testNGSuiteName] -->

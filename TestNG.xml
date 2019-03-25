@@ -1,0 +1,12 @@
+<suite name="testNGSuiteName">
+	<test name = "testNGParameterName">
+		<classes>
+			<class name="testCase.HybridSkipSignIn">
+			</class>
+			<class name="testCase.HybridRegister">
+			</class>
+			<class name="testCase.HybridWindows">
+			</class>
+		</classes>
+	</test>
+</suite>
